@@ -10,4 +10,4 @@ Makes money efficient for a more equal world.
 
 ## License
 
-WTFPL
+Unlicense
