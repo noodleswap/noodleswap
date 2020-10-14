@@ -1,16 +1,13 @@
-### Hi there 👋
+# NoodleSwap
 
-<!--
-**noodleswap/noodleswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Makes money efficient for a more equal world.
 
-Here are some ideas to get you started:
+## Deployed Contracts / Hash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NoodleToken - https://etherscan.io/token/0xff3401d00a225300d6dde2ee1968f4df795169f0
+- MasterChef - https://etherscan.io/address/0x3476d081929a8cabdce1e2006cb6fbcf56fb0dca
+- TimeLock - https://etherscan.io/address/0x16ab26cefd880437f19fdd2c57041d6e3f0b26d5
+
+## License
+
+WTFPL
